@@ -1,0 +1,15 @@
+/home/alexander/Documentos/GitHub/dotnet-datas-net-6/MyApp/bin/Debug/net6.0/MyApp
+/home/alexander/Documentos/GitHub/dotnet-datas-net-6/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/home/alexander/Documentos/GitHub/dotnet-datas-net-6/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/home/alexander/Documentos/GitHub/dotnet-datas-net-6/MyApp/bin/Debug/net6.0/MyApp.dll
+/home/alexander/Documentos/GitHub/dotnet-datas-net-6/MyApp/bin/Debug/net6.0/MyApp.pdb
+/home/alexander/Documentos/GitHub/dotnet-datas-net-6/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/home/alexander/Documentos/GitHub/dotnet-datas-net-6/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexander/Documentos/GitHub/dotnet-datas-net-6/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/home/alexander/Documentos/GitHub/dotnet-datas-net-6/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/home/alexander/Documentos/GitHub/dotnet-datas-net-6/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/home/alexander/Documentos/GitHub/dotnet-datas-net-6/MyApp/obj/Debug/net6.0/MyApp.dll
+/home/alexander/Documentos/GitHub/dotnet-datas-net-6/MyApp/obj/Debug/net6.0/refint/MyApp.dll
+/home/alexander/Documentos/GitHub/dotnet-datas-net-6/MyApp/obj/Debug/net6.0/MyApp.pdb
+/home/alexander/Documentos/GitHub/dotnet-datas-net-6/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
+/home/alexander/Documentos/GitHub/dotnet-datas-net-6/MyApp/obj/Debug/net6.0/ref/MyApp.dll
